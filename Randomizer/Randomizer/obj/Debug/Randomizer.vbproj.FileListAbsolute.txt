@@ -1,0 +1,11 @@
+C:\Users\Denis\Desktop\Randomizer\Randomizer\Randomizer\bin\Debug\Randomizer.exe.config
+C:\Users\Denis\Desktop\Randomizer\Randomizer\Randomizer\bin\Debug\Randomizer.exe
+C:\Users\Denis\Desktop\Randomizer\Randomizer\Randomizer\bin\Debug\Randomizer.pdb
+C:\Users\Denis\Desktop\Randomizer\Randomizer\Randomizer\bin\Debug\Randomizer.xml
+C:\Users\Denis\Desktop\Randomizer\Randomizer\Randomizer\obj\Debug\Randomizer.Rndomizer.resources
+C:\Users\Denis\Desktop\Randomizer\Randomizer\Randomizer\obj\Debug\Randomizer.Resources.resources
+C:\Users\Denis\Desktop\Randomizer\Randomizer\Randomizer\obj\Debug\Randomizer.Splash.resources
+C:\Users\Denis\Desktop\Randomizer\Randomizer\Randomizer\obj\Debug\Randomizer.vbproj.GenerateResource.Cache
+C:\Users\Denis\Desktop\Randomizer\Randomizer\Randomizer\obj\Debug\Randomizer.exe
+C:\Users\Denis\Desktop\Randomizer\Randomizer\Randomizer\obj\Debug\Randomizer.xml
+C:\Users\Denis\Desktop\Randomizer\Randomizer\Randomizer\obj\Debug\Randomizer.pdb
