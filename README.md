@@ -1,7 +1,7 @@
 # VB-Random-Group-Generator
 Partial credit goes to the Programming Club at Normandale Community College
 
-This program tested and runs in python 3.2.5
+This program tested and runs in Visual Studion 2013
 
 Create/Modefy groups of people based on group size and without allowing even a single member to be in a new group with a member whos he/she has been in a group before.
 
